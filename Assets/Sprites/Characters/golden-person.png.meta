@@ -1,97 +1,79 @@
 fileFormatVersion: 2
-guid: 1224e85a617848d4c91b62df410a085d
+guid: bf11b2c8e1fdee3459d6dde424109f90
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3212297613872991975
-    second: Red human_0
+      213: 4544248374717537604
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_0
   - first:
-      213: 471500139038683380
-    second: Red human_1
+      213: 5807923404882269121
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_1
   - first:
-      213: -5043309250118217999
-    second: Red human_2
+      213: 4190367947767957165
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_2
   - first:
-      213: 1503014678528025468
-    second: Red human_3
+      213: -8628510481099638931
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_3
   - first:
-      213: 6750797579558916920
-    second: Red human_4
+      213: -8242725203356072834
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_4
   - first:
-      213: -444122486231495408
-    second: Red human_5
+      213: 274383029430088332
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_5
   - first:
-      213: -5242103151315160616
-    second: Red human_6
+      213: 4531516722626524022
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_6
   - first:
-      213: -7464210677964149932
-    second: Red human_7
+      213: -8250862931866950473
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_7
   - first:
-      213: 2048552923142993541
-    second: Red human_8
+      213: 395767402240096388
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_8
   - first:
-      213: 2302962193246974360
-    second: Red human_9
+      213: -6544649454345605264
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_9
   - first:
-      213: -5520679613270254358
-    second: Red human_10
+      213: -5586987896409688191
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_10
   - first:
-      213: 5109388792671010005
-    second: Red human_11
+      213: 4711788245059752941
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_11
   - first:
-      213: 2196416384930832569
-    second: Red human_12
+      213: -6376987808568421248
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_12
   - first:
-      213: -4971070900122024881
-    second: Red human_13
+      213: 8685810670077508777
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_13
   - first:
-      213: 4668712845313989704
-    second: Red human_14
+      213: -1462682686909529156
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_14
   - first:
-      213: 484750884585907581
-    second: Red human_15
+      213: 6078479109111822514
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_15
   - first:
-      213: 7765424830666525337
-    second: Red human_16
+      213: -2008445786016261652
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_16
   - first:
-      213: -2048129889682638025
-    second: Red human_17
+      213: 1787464311354247633
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_17
   - first:
-      213: 2988212766058578928
-    second: Red human_18
+      213: 4362678032744658762
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_18
   - first:
-      213: -7591599275034281724
-    second: Red human_19
+      213: -6441525730395166814
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_19
   - first:
-      213: 463711500884252816
-    second: Red human_20
+      213: -5237218794926306885
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_20
   - first:
-      213: -1972647428868256541
-    second: Red human_21
+      213: 8199982850141669310
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_21
   - first:
-      213: 580167362747786971
-    second: Red human_22
+      213: -4623014240687069843
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_22
   - first:
-      213: -6701719768411683029
-    second: Red human_23
-  - first:
-      213: 369760224141087021
-    second: Red human_24
-  - first:
-      213: 1230390455282060180
-    second: Red human_25
-  - first:
-      213: -8085087671929419477
-    second: Red human_26
-  - first:
-      213: -8993980795987346306
-    second: Red human_27
-  - first:
-      213: -5041975631598893610
-    second: Red human_28
-  - first:
-      213: 2512845023400702824
-    second: Red human_29
+      213: -1611703571378404057
+    second: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -187,13 +169,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Red human_0
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 448
-        width: 310
-        height: 250
+        x: 32
+        y: 358
+        width: 216
+        height: 185
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,371 +184,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7ee0cbb09af549c20800000000000000
-      internalID: 3212297613872991975
+      spriteID: 44d5f2202d9601f30800000000000000
+      internalID: 4544248374717537604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red human_1
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_1
       rect:
         serializedVersion: 2
-        x: 259
-        y: 428
-        width: 257
-        height: 219
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f0b2fad0ea1b8600800000000000000
-      internalID: 471500139038683380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_2
-      rect:
-        serializedVersion: 2
-        x: 779
-        y: 438
-        width: 211
-        height: 173
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1fe034625f0920ab0800000000000000
-      internalID: -5043309250118217999
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_3
-      rect:
-        serializedVersion: 2
-        x: 978
-        y: 461
-        width: 93
-        height: 193
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c736cd503e7cbd410800000000000000
-      internalID: 1503014678528025468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_4
-      rect:
-        serializedVersion: 2
-        x: 1115
-        y: 461
-        width: 120
-        height: 191
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8331d20a1a6afad50800000000000000
-      internalID: 6750797579558916920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_5
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 236
-        width: 75
-        height: 179
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 01d886ba3f826d9f0800000000000000
-      internalID: -444122486231495408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_6
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 237
-        width: 86
-        height: 178
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d177ed25fe4047b0800000000000000
-      internalID: -5242103151315160616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_7
-      rect:
-        serializedVersion: 2
-        x: 310
-        y: 236
-        width: 90
-        height: 178
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45be44b7febc96890800000000000000
-      internalID: -7464210677964149932
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_8
-      rect:
-        serializedVersion: 2
-        x: 468
-        y: 227
-        width: 105
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 586b687a70ced6c10800000000000000
-      internalID: 2048552923142993541
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_9
-      rect:
-        serializedVersion: 2
-        x: 595
-        y: 225
-        width: 110
-        height: 217
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 891f3a3c9e3c5ff10800000000000000
-      internalID: 2302962193246974360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_10
-      rect:
-        serializedVersion: 2
-        x: 714
-        y: 229
-        width: 104
-        height: 213
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aec194c342b9263b0800000000000000
-      internalID: -5520679613270254358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_11
-      rect:
-        serializedVersion: 2
-        x: 816
-        y: 235
-        width: 123
-        height: 179
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5dc7486490238e640800000000000000
-      internalID: 5109388792671010005
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_12
-      rect:
-        serializedVersion: 2
-        x: 841
-        y: 406
-        width: 11
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b066a2a01d3b7e10800000000000000
-      internalID: 2196416384930832569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_13
-      rect:
-        serializedVersion: 2
-        x: 852
-        y: 413
-        width: 63
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4402fcaa55330bb0800000000000000
-      internalID: -4971070900122024881
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_14
-      rect:
-        serializedVersion: 2
-        x: 911
-        y: 400
-        width: 37
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 84c5e3fc8999ac040800000000000000
-      internalID: 4668712845313989704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_15
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 236
-        width: 111
-        height: 174
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d75ac487c5e2ab600800000000000000
-      internalID: 484750884585907581
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_16
-      rect:
-        serializedVersion: 2
-        x: 965
-        y: 230
-        width: 132
-        height: 157
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99a40e19db454cb60800000000000000
-      internalID: 7765424830666525337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_17
-      rect:
-        serializedVersion: 2
-        x: 1126
-        y: 236
-        width: 119
+        x: 207
+        y: 343
+        width: 206
         height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -576,20 +206,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73b3b9f77b49393e0800000000000000
-      internalID: -2048129889682638025
+      spriteID: 1c35fa6a093e99050800000000000000
+      internalID: 5807923404882269121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red human_18
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 186
-        height: 204
+        x: 435
+        y: 119
+        width: 158
+        height: 381
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -598,20 +228,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f38532bda3487920800000000000000
-      internalID: 2988212766058578928
+      spriteID: da644ec627d272a30800000000000000
+      internalID: 4190367947767957165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red human_19
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_3
       rect:
         serializedVersion: 2
-        x: 215
-        y: 28
-        width: 104
-        height: 180
+        x: 623
+        y: 351
+        width: 169
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -620,20 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 409f77e6ea835a690800000000000000
-      internalID: -7591599275034281724
+      spriteID: d673259ee6f514880800000000000000
+      internalID: -8628510481099638931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red human_20
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_4
       rect:
         serializedVersion: 2
-        x: 361
-        y: 28
-        width: 101
-        height: 189
+        x: 782
+        y: 369
+        width: 75
+        height: 156
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -642,20 +272,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0981878372f6f6600800000000000000
-      internalID: 463711500884252816
+      spriteID: e744dc07915fb9d80800000000000000
+      internalID: -8242725203356072834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red human_21
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_5
       rect:
         serializedVersion: 2
-        x: 601
-        y: 31
-        width: 77
-        height: 183
+        x: 892
+        y: 369
+        width: 96
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -664,19 +294,393 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ec483f6d9fbf94e0800000000000000
-      internalID: -1972647428868256541
+      spriteID: c82739959edcec300800000000000000
+      internalID: 274383029430088332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red human_22
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_6
       rect:
         serializedVersion: 2
-        x: 755
-        y: 170
-        width: 18
+        x: 26
+        y: 189
+        width: 89
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67375e1437e23ee30800000000000000
+      internalID: 4531516722626524022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 188
+        width: 60
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4e1afd0eb0f7d80800000000000000
+      internalID: -8250862931866950473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 189
+        width: 69
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48833300b5c0e7500800000000000000
+      internalID: 395767402240096388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 188
+        width: 74
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fa64e0ffbbc25a0800000000000000
+      internalID: -6544649454345605264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 188
+        width: 99
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187f71efb180772b0800000000000000
+      internalID: -5586987896409688191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 325
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3d5abd172a36140800000000000000
+      internalID: 4711788245059752941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 320
+        width: 78
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0845845ff536087a0800000000000000
+      internalID: -6376987808568421248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 189
+        width: 95
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac7448f8c23a8870800000000000000
+      internalID: 8685810670077508777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 184
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3c4ab88d183bbe0800000000000000
+      internalID: -1462682686909529156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 22
+        width: 99
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b83e396b881b5450800000000000000
+      internalID: 6078479109111822514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 22
+        width: 84
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9ded5e2319024e0800000000000000
+      internalID: -2008445786016261652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 22
+        width: 82
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d945fe12595ec810800000000000000
+      internalID: 1787464311354247633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 136
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47352b6e885b8c30800000000000000
+      internalID: 4362678032744658762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 22
+        width: 143
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7e1441a7a1b96a0800000000000000
+      internalID: -6441525730395166814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 147
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb90b650149a157b0800000000000000
+      internalID: -5237218794926306885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 22
+        width: 85
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb74df2f4f03cc170800000000000000
+      internalID: 8199982850141669310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 21
+        width: 82
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d656648ba01c7dfb0800000000000000
+      internalID: -4623014240687069843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 114
+        width: 17
         height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -686,162 +690,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd66bde742b2d0800800000000000000
-      internalID: 580167362747786971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_23
-      rect:
-        serializedVersion: 2
-        x: 776
-        y: 182
-        width: 19
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b27cb9bb065bef2a0800000000000000
-      internalID: -6701719768411683029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_24
-      rect:
-        serializedVersion: 2
-        x: 791
-        y: 188
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d219ffbf6f6a12500800000000000000
-      internalID: 369760224141087021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_25
-      rect:
-        serializedVersion: 2
-        x: 829
-        y: 184
-        width: 21
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 49b4e16a999331110800000000000000
-      internalID: 1230390455282060180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_26
-      rect:
-        serializedVersion: 2
-        x: 962
-        y: 28
-        width: 105
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b29c1c8599ffbcf80800000000000000
-      internalID: -8085087671929419477
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_27
-      rect:
-        serializedVersion: 2
-        x: 1124
-        y: 27
-        width: 101
-        height: 188
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e7c3d724e16fe2380800000000000000
-      internalID: -8993980795987346306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_28
-      rect:
-        serializedVersion: 2
-        x: 750
-        y: 143
-        width: 20
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d54f5860ed470ab0800000000000000
-      internalID: -5041975631598893610
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red human_29
-      rect:
-        serializedVersion: 2
-        x: 761
-        y: 27
-        width: 179
-        height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 86338633c3b6fd220800000000000000
-      internalID: 2512845023400702824
+      spriteID: 72503c8142412a9e0800000000000000
+      internalID: -1611703571378404057
       vertices: []
       indices: 
       edges: []
@@ -850,7 +700,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -860,36 +710,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Red human_0: 3212297613872991975
-      Red human_1: 471500139038683380
-      Red human_10: -5520679613270254358
-      Red human_11: 5109388792671010005
-      Red human_12: 2196416384930832569
-      Red human_13: -4971070900122024881
-      Red human_14: 4668712845313989704
-      Red human_15: 484750884585907581
-      Red human_16: 7765424830666525337
-      Red human_17: -2048129889682638025
-      Red human_18: 2988212766058578928
-      Red human_19: -7591599275034281724
-      Red human_2: -5043309250118217999
-      Red human_20: 463711500884252816
-      Red human_21: -1972647428868256541
-      Red human_22: 580167362747786971
-      Red human_23: -6701719768411683029
-      Red human_24: 369760224141087021
-      Red human_25: 1230390455282060180
-      Red human_26: -8085087671929419477
-      Red human_27: -8993980795987346306
-      Red human_28: -5041975631598893610
-      Red human_29: 2512845023400702824
-      Red human_3: 1503014678528025468
-      Red human_4: 6750797579558916920
-      Red human_5: -444122486231495408
-      Red human_6: -5242103151315160616
-      Red human_7: -7464210677964149932
-      Red human_8: 2048552923142993541
-      Red human_9: 2302962193246974360
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_0: 4544248374717537604
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_1: 5807923404882269121
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_10: -5586987896409688191
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_11: 4711788245059752941
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_12: -6376987808568421248
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_13: 8685810670077508777
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_14: -1462682686909529156
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_15: 6078479109111822514
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_16: -2008445786016261652
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_17: 1787464311354247633
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_18: 4362678032744658762
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_19: -6441525730395166814
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_2: 4190367947767957165
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_20: -5237218794926306885
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_21: 8199982850141669310
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_22: -4623014240687069843
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_23: -1611703571378404057
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_3: -8628510481099638931
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_4: -8242725203356072834
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_5: 274383029430088332
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_6: 4531516722626524022
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_7: -8250862931866950473
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_8: 395767402240096388
+      f5c9dbea-fad2-4f10-aced-f63d56d7c3f0-Photoroom_9: -6544649454345605264
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
