@@ -29,7 +29,7 @@ public class QueueManager : MonoBehaviour
                 Vector2 direction = p.transform.position - boatPosition;
                 float distance = direction.magnitude;
 
-                if (distance > maxDistance)
+                if (distance <= maxDistance)
                 {
                     // Bắn tia Laser (Raycast) để kiểm tra tầm nhìn
                     // Tia này sẽ đập vào bất cứ thứ gì thuộc 'combinedLayer' (Người hoặc Tường)
