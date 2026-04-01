@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 1224e85a617848d4c91b62df410a085d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3212297613872991975
+    second: Red human_0
+  - first:
+      213: 471500139038683380
+    second: Red human_1
+  - first:
+      213: -5043309250118217999
+    second: Red human_2
+  - first:
+      213: 1503014678528025468
+    second: Red human_3
+  - first:
+      213: 6750797579558916920
+    second: Red human_4
+  - first:
+      213: -444122486231495408
+    second: Red human_5
+  - first:
+      213: -5242103151315160616
+    second: Red human_6
+  - first:
+      213: -7464210677964149932
+    second: Red human_7
+  - first:
+      213: 2048552923142993541
+    second: Red human_8
+  - first:
+      213: 2302962193246974360
+    second: Red human_9
+  - first:
+      213: -5520679613270254358
+    second: Red human_10
+  - first:
+      213: 5109388792671010005
+    second: Red human_11
+  - first:
+      213: 2196416384930832569
+    second: Red human_12
+  - first:
+      213: -4971070900122024881
+    second: Red human_13
+  - first:
+      213: 4668712845313989704
+    second: Red human_14
+  - first:
+      213: 484750884585907581
+    second: Red human_15
+  - first:
+      213: 7765424830666525337
+    second: Red human_16
+  - first:
+      213: -2048129889682638025
+    second: Red human_17
+  - first:
+      213: 2988212766058578928
+    second: Red human_18
+  - first:
+      213: -7591599275034281724
+    second: Red human_19
+  - first:
+      213: 463711500884252816
+    second: Red human_20
+  - first:
+      213: -1972647428868256541
+    second: Red human_21
+  - first:
+      213: 580167362747786971
+    second: Red human_22
+  - first:
+      213: -6701719768411683029
+    second: Red human_23
+  - first:
+      213: 369760224141087021
+    second: Red human_24
+  - first:
+      213: 1230390455282060180
+    second: Red human_25
+  - first:
+      213: -8085087671929419477
+    second: Red human_26
+  - first:
+      213: -8993980795987346306
+    second: Red human_27
+  - first:
+      213: -5041975631598893610
+    second: Red human_28
+  - first:
+      213: 2512845023400702824
+    second: Red human_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red human_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 310
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee0cbb09af549c20800000000000000
+      internalID: 3212297613872991975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 428
+        width: 257
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0b2fad0ea1b8600800000000000000
+      internalID: 471500139038683380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 438
+        width: 211
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe034625f0920ab0800000000000000
+      internalID: -5043309250118217999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_3
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 461
+        width: 93
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c736cd503e7cbd410800000000000000
+      internalID: 1503014678528025468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_4
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 461
+        width: 120
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8331d20a1a6afad50800000000000000
+      internalID: 6750797579558916920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 236
+        width: 75
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d886ba3f826d9f0800000000000000
+      internalID: -444122486231495408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 237
+        width: 86
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d177ed25fe4047b0800000000000000
+      internalID: -5242103151315160616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 236
+        width: 90
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45be44b7febc96890800000000000000
+      internalID: -7464210677964149932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 227
+        width: 105
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586b687a70ced6c10800000000000000
+      internalID: 2048552923142993541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 225
+        width: 110
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891f3a3c9e3c5ff10800000000000000
+      internalID: 2302962193246974360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_10
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 229
+        width: 104
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec194c342b9263b0800000000000000
+      internalID: -5520679613270254358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_11
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 235
+        width: 123
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc7486490238e640800000000000000
+      internalID: 5109388792671010005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 406
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b066a2a01d3b7e10800000000000000
+      internalID: 2196416384930832569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 413
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4402fcaa55330bb0800000000000000
+      internalID: -4971070900122024881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_14
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 400
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c5e3fc8999ac040800000000000000
+      internalID: 4668712845313989704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 236
+        width: 111
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75ac487c5e2ab600800000000000000
+      internalID: 484750884585907581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_16
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 230
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a40e19db454cb60800000000000000
+      internalID: 7765424830666525337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_17
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 236
+        width: 119
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b3b9f77b49393e0800000000000000
+      internalID: -2048129889682638025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 186
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f38532bda3487920800000000000000
+      internalID: 2988212766058578928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 28
+        width: 104
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409f77e6ea835a690800000000000000
+      internalID: -7591599275034281724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_20
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 28
+        width: 101
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0981878372f6f6600800000000000000
+      internalID: 463711500884252816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_21
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 31
+        width: 77
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec483f6d9fbf94e0800000000000000
+      internalID: -1972647428868256541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_22
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd66bde742b2d0800800000000000000
+      internalID: 580167362747786971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_23
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 182
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27cb9bb065bef2a0800000000000000
+      internalID: -6701719768411683029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_24
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 188
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d219ffbf6f6a12500800000000000000
+      internalID: 369760224141087021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_25
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 184
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b4e16a999331110800000000000000
+      internalID: 1230390455282060180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_26
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 28
+        width: 105
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29c1c8599ffbcf80800000000000000
+      internalID: -8085087671929419477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_27
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 27
+        width: 101
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c3d724e16fe2380800000000000000
+      internalID: -8993980795987346306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_28
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 143
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d54f5860ed470ab0800000000000000
+      internalID: -5041975631598893610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red human_29
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 27
+        width: 179
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86338633c3b6fd220800000000000000
+      internalID: 2512845023400702824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red human_0: 3212297613872991975
+      Red human_1: 471500139038683380
+      Red human_10: -5520679613270254358
+      Red human_11: 5109388792671010005
+      Red human_12: 2196416384930832569
+      Red human_13: -4971070900122024881
+      Red human_14: 4668712845313989704
+      Red human_15: 484750884585907581
+      Red human_16: 7765424830666525337
+      Red human_17: -2048129889682638025
+      Red human_18: 2988212766058578928
+      Red human_19: -7591599275034281724
+      Red human_2: -5043309250118217999
+      Red human_20: 463711500884252816
+      Red human_21: -1972647428868256541
+      Red human_22: 580167362747786971
+      Red human_23: -6701719768411683029
+      Red human_24: 369760224141087021
+      Red human_25: 1230390455282060180
+      Red human_26: -8085087671929419477
+      Red human_27: -8993980795987346306
+      Red human_28: -5041975631598893610
+      Red human_29: 2512845023400702824
+      Red human_3: 1503014678528025468
+      Red human_4: 6750797579558916920
+      Red human_5: -444122486231495408
+      Red human_6: -5242103151315160616
+      Red human_7: -7464210677964149932
+      Red human_8: 2048552923142993541
+      Red human_9: 2302962193246974360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
