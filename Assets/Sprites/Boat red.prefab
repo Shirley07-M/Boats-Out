@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3781746072377843287}
   - component: {fileID: 5656204994104379520}
   m_Layer: 0
-  m_Name: boat-row-large
+  m_Name: Boat red
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
